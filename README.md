@@ -1,4 +1,4 @@
-# big-data-group-project
+# Big Data Group Project
 **US superstore opening analysis**
 
 
